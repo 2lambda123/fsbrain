@@ -1,0 +1,321 @@
+repo_name: 2lambda123/fsbrain
+report_id: c9af0f499c3c2df527765eb211c508ce
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:13:24+00:00'
+requested_by: dfsp-spirit
+provider: github
+branch: develop
+detected_tools_count: 26
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-01-18 21:32:36.000000000 Z
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/fsbrain
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/fsbrain
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/fsbrain
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/.github/workflows/R-CMD-check.yaml
+  detection_source: ".github/workflows/R-CMD-check.yaml"
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-05-14 11:50:14.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/fsbrain
+  detection_source: Repo Metadata
+- name: RColorBrewer
+  description: ColorBrewer Palettes
+  package_url: https://cran.r-project.org/RColorBrewer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-05-18 21:04:21.000000000 Z
+- name: Rvcg
+  description: Manipulations of Triangular Meshes Based on the 'VCGLIB' API
+  package_url: https://cran.r-project.org/Rvcg
+  version: 0.20.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-09-09 21:05:59.000000000 Z
+- name: data.table
+  description: Extension of 'data.frame'
+  package_url: https://cran.r-project.org/data.table
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-01-18 21:32:36.000000000 Z
+- name: fields
+  description: Tools for Spatial Data
+  package_url: https://cran.r-project.org/fields
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-12-16 14:15:33.000000000 Z
+- name: igraph
+  description: Network Analysis and Visualization
+  package_url: https://cran.r-project.org/igraph
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-06-25 10:24:45.000000000 Z
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: magick
+  description: Advanced Graphics and Image-Processing in R
+  package_url: https://cran.r-project.org/magick
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-04-26 07:29:38.000000000 Z
+- name: misc3d
+  description: Miscellaneous 3D Plots
+  package_url: https://cran.r-project.org/misc3d
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2020-05-25 11:55:41.000000000 Z
+- name: pracma
+  description: Practical Numerical Math Functions
+  package_url: https://cran.r-project.org/pracma
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-06-25 10:24:45.000000000 Z
+- name: reshape
+  description: Flexibly Reshape Data
+  package_url: https://cran.r-project.org/reshape
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: rgl
+  description: 3D Visualization Using OpenGL
+  package_url: https://cran.r-project.org/rgl
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-09-17 15:08:05.000000000 Z
+- name: sphereplot
+  description: Spherical Plotting
+  package_url: https://cran.r-project.org/sphereplot
+  version: '1.5'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2020-07-09 08:12:24.000000000 Z
+- name: squash
+  description: Color-Based Plots for Multivariate Visualization
+  package_url: https://cran.r-project.org/squash
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2019-10-31 16:26:39.000000000 Z
+- name: testthat
+  description: Unit Testing for R
+  package_url: https://cran.r-project.org/testthat
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schaefer
+  last_updated_on: 2019-11-01 14:08:48.000000000 Z
+- name: viridis
+  description: Colorblind-Friendly Color Maps for R
+  package_url: https://cran.r-project.org/viridis
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fsbrain/blob/develop/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Tim Schäfer
+  last_updated_on: 2021-06-16 09:17:50.000000000 Z
